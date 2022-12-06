@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Day03Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-04T11:49:53" hostname="djsushi-arch" time="0.04">
-  <properties/>
-  <testcase name="Day03 Puzzle1()" classname="Day03Test" time="0.029"/>
-  <testcase name="Day03 Puzzle2()" classname="Day03Test" time="0.011"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
